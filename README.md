@@ -6,6 +6,9 @@
 Kişinin adı, soyadı, elektronik posta adresi, telefon numarası ve resim bilgilerini veri tabanında tutabilmektedir. Kişi ekleme, silme, güncelleme ve arama yapma özellikleri kullanılabilmektedir.*
 </br>
 *Uygulamayı *[buradan](https://github.com/alperenkucukali/Rehber/blob/master/Rehber/app/debug/app-debug.apk)* indirebilirsiniz.*
+</br>
+*Uygulamanın kısa tanıtımını linkten izleyebilirsiniz.*
+https://youtu.be/uM-oPdoj8qY
 
 ## Rehber Uygulaması Nasıl Kullanılır ?
 *Açılan ilk sayfada kişi ekleyebilirsiniz.*
