@@ -4,6 +4,8 @@
 
 *Android Studio ortamında kotlin programlama dili kullanılarak basit bir telefon rehberi uygulaması olarak tasarlanmıştır. Veri tabanı olarak SQLite kullanılmıştır. 
 Kişinin adı, soyadı, elektronik posta adresi, telefon numarası ve resim bilgilerini veri tabanında tutabilmektedir. Kişi ekleme, silme, güncelleme ve arama yapma özellikleri kullanılabilmektedir.*
+</br>
+*Uygulamayı *[buradan](https://github.com/alperenkucukali/Rehber/blob/master/Rehber/app/debug/app-debug.apk)* indirebilirsiniz.*
 
 ## Rehber Uygulaması Nasıl Kullanılır ?
 *Açılan ilk sayfada kişi ekleyebilirsiniz.*
