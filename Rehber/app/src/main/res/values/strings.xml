@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rehber</string>
+    <string name="ad">Ad: </string>
+    <string name="soyad">Soyad: </string>
+    <string name="numara">Telefon Numarası: </string>
+    <string name="eposta">E-Posta: </string>
+    <string name="fotograf">Fotograf</string>
+
+</resources>
