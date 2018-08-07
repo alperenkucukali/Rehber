@@ -47,7 +47,7 @@ class Main2Activity : AppCompatActivity() {
             val imageIndex = cursor.getColumnIndex("image")
             cursor.moveToFirst()
 
-             while (cursor !=null && cursor.moveToNext()){
+             while (cursor !=null ){
 
                 nameArray.add(cursor.getString(nameIndex))
                 surnameArray.add(cursor.getString(surnameIndex))
@@ -58,9 +58,8 @@ class Main2Activity : AppCompatActivity() {
                val image = BitmapFactory.decodeByteArray(byteArray,0,byteArray.size)
 
                imageArray.add(image)
-
-
                 arrayAdapter.notifyDataSetChanged()
+                 cursor.moveToNext()
             }
 
              cursor?.close()
